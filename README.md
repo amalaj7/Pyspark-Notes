@@ -1,4 +1,4 @@
-__Prerequisite : For you to execute these notebooks, you have to setup the Pyspark in Local Mode or you can log in to Databricks Platform and execute in their environment__ 
+__Prerequisite : For you to execute these notebooks, you have to setup the Pyspark in Local Mode or you can log in to Databricks Platform and execute in their environment.__ 
 
 You can refer the below blog to setup the local mode installation and to execute programs in jupyter notebook.
 ```bash
